@@ -17,6 +17,7 @@
 		E0909CCF29E2D923007C2A88 /* MemoStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0909CCE29E2D923007C2A88 /* MemoStore.swift */; };
 		E0909CD229E2EABA007C2A88 /* Memocell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0909CD129E2EABA007C2A88 /* Memocell.swift */; };
 		E0909CD429E2EB3A007C2A88 /* ComposeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0909CD329E2EB3A007C2A88 /* ComposeView.swift */; };
+		E0909CD629E2EE32007C2A88 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0909CD529E2EE32007C2A88 /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		E0909CCE29E2D923007C2A88 /* MemoStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoStore.swift; sourceTree = "<group>"; };
 		E0909CD129E2EABA007C2A88 /* Memocell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Memocell.swift; sourceTree = "<group>"; };
 		E0909CD329E2EB3A007C2A88 /* ComposeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComposeView.swift; sourceTree = "<group>"; };
+		E0909CD529E2EE32007C2A88 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				E0909CC829E2D7D1007C2A88 /* MainListView.swift */,
 				E0909CD129E2EABA007C2A88 /* Memocell.swift */,
 				E0909CD329E2EB3A007C2A88 /* ComposeView.swift */,
+				E0909CD529E2EE32007C2A88 /* DetailView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -182,6 +185,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E0909CBA29E2D71B007C2A88 /* SwiftUIMemo.xcdatamodeld in Sources */,
+				E0909CD629E2EE32007C2A88 /* DetailView.swift in Sources */,
 				E0909CD229E2EABA007C2A88 /* Memocell.swift in Sources */,
 				E0909CCF29E2D923007C2A88 /* MemoStore.swift in Sources */,
 				E0909CC929E2D7D1007C2A88 /* MainListView.swift in Sources */,
